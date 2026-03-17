@@ -1,6 +1,6 @@
-# luminapages
+# Flutter diary application using SQFLITE as database.
 
-A new Flutter project.
+
 
 ## Getting Started
 
